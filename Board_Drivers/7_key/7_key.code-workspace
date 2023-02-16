@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.json": "jsonc",
+			"main.h": "c",
+			"fsl_iomuxc.h": "c"
+		}
+	}
+}

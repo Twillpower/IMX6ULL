@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.json": "jsonc",
+			"bsp_clk.h": "c",
+			"mcimx6y2.h": "c",
+			"bsp_delay.h": "c",
+			"fsl_common.h": "c",
+			"bsp_led.h": "c",
+			"fsl_iomuxc.h": "c"
+		}
+	}
+}
